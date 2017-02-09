@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="BLOCK">#000000</color>
+    <color name="TRANSBLOCK">#80000000</color>
+    <color name="GRAY">#5e5e5e</color>
+    <color name="ORANGE">#f69833</color>
+    <color name="Transparent">#00000000</color>
+</resources>
